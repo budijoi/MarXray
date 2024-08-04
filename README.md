@@ -35,7 +35,13 @@ docker compose down && docker compose up -d
  <br>
  id.jateng.tech diatas, ganti dengan domainmu <br>
  vless ntls diatas typo, yg bener port 80 <br>
-Bingung? PM ane aja :<a href="https://t.me/Tereza11" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+Bingung? PM aja :<a href="https://t.me/mochvpn" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 <br>
-
+# Telegram Bot
+Marzban comes with an integrated Telegram bot that can handle server management, user creation and removal, and send notifications. This bot can be easily enabled by following a few simple steps, and it provides a convenient way to interact with Marzban without having to log in to the server every time.
+<br>
+To enable Telegram Bot:
+<br>
+set TELEGRAM_API_TOKEN to your bot's API Token<br>
+set TELEGRAM_ADMIN_ID to your Telegram account's numeric ID, you can get your ID from @userinfobot
 
