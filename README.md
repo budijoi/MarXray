@@ -6,7 +6,7 @@ Ini Marzban (https://github.com/Gozargah/Marzban) yang saya tambahi nginx agar v
  apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
  ```
  ```html
- wget https://raw.githubusercontent.com/Agunxzzz/MarXray/main/sslmar.sh && chmod 755 sslmar.sh && ./sslmar.sh
+ wget https://raw.githubusercontent.com/budijoi/MarXray/main/sslmar.sh && chmod 755 sslmar.sh && ./sslmar.sh
  ```
  
   harus ada domain dulu
